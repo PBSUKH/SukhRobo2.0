@@ -78,7 +78,7 @@ PM_START_TEXT = """
 *🙋𝐇ᴇʏ* {} , 🥀
 *๏ I'M {} SQUARE YOUR GROUP!
 THE MOST POWERFUL MANGMENT ➕ MUSIC & CHATBOT OR MANY MORE!*
-➻ *ANY HELP VISIT @THE_DRAMA_CLUB_01 THANKS FOR USING ʙᴀᴅ BOTS.*
+➻ *ANY HELP VISIT @its_Punjabi_Chat_Group THANKS FOR USING AUJLA BOTS.*
 ➖➖➖➖➖➖➖➖➖➖➖
    *📇 Sᴛᴀʀᴛ ➻* {} 𝐌ᴇᴍʙᴇʀ𝐬🎉
    *👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ ➻* {} 𝐆ʀᴏᴜᴘ𝐬🪷
@@ -87,9 +87,9 @@ THE MOST POWERFUL MANGMENT ➕ MUSIC & CHATBOT OR MANY MORE!*
 
 buttons = [
     [
-        InlineKeyboardButton(text="🏡", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="🏡", url=f"https://t.me/its_Punjabi_Chat_Group"),
         InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="🙎", url=f"https://t.me/II_BAD_MUNDA_II"),
+        InlineKeyboardButton(text="🙎", url=f"https://t.me/PB65_Aujla"),
         InlineKeyboardButton(text="🧑‍🤝‍🧑", url=f"tg://settings"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
@@ -112,7 +112,7 @@ HELP_STRINGS = f"""
 DONATE_STRING = f"""ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @II_BAD_MUNDA_II ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @THE_DRAMA_CLUB_01 ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @PB65_Aujla ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @its_Punjabi_Chat_Group ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -220,11 +220,11 @@ def start(update: Update, context: CallbackContext):
             time.sleep(0.4)
             lol.edit_text("😁")
             time.sleep(0.4)
-            lol.edit_text("😘")
+            lol.edit_text("😂")
             time.sleep(0.5)
-            lol.edit_text("😚")
+            lol.edit_text("🤨")
             time.sleep(0.3)
-            lol.edit_text("💋")
+            lol.edit_text("😤")
             time.sleep(0.4)
             lol.delete()
             
@@ -386,8 +386,8 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"https://t.me/II_BAD_MUNDA_II}"),
+        InlineKeyboardButton(text="➕", url=f"https://t.me/its_Punjabi_Chat_Group"),
+        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
                     [
@@ -426,7 +426,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="🏡 sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url=f"https://t.me/BOTS_REPO_ALL_01"
+                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url=f"https://t.me/World_Mania"
                         ),
                     ],
                     [
@@ -623,7 +623,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
                  [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/BOTS_REPO_ALL_01"),
+        InlineKeyboardButton(text="➕", url=f"https://t.me/its_Punjabi_Chat_Group"),
         InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],[InlineKeyboardButton(text="◁", callback_data="source_back")]]
@@ -653,7 +653,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/BOTS_REPO_ALL_01"),
+        InlineKeyboardButton(text="➕", url=f"https://t.me/its_Punjabi_Chat_Group"),
         InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
@@ -1073,11 +1073,11 @@ def main():
         try:
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
-                photo=f"{https://te.legra.ph/file/e25a563619c653328830d.jpg}",
+                photo=f"{START_IMG}",
                 caption=f"""
 ✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ ʙᴀᴅ**
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ AUJLA**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
@@ -1145,4 +1145,3 @@ if __name__ == "__main__":
     telethn.start(bot_token=TOKEN)
     pbot.start()
     main()
-    
