@@ -90,8 +90,8 @@ buttons = [
         InlineKeyboardButton(text="🥀", url=f"https://t.me/THE_DRAMA_CLUB_01"),
         InlineKeyboardButton(text="🌹", callback_data="help|back"),
         InlineKeyboardButton(text="😈", url=f"https://t.me/II_BAD_MUNDA_II"),
-        InlineKeyboardButton(text="🧟", url=f"tg://settings"),
-        InlineKeyboardButton(text="❤️", callback_data="Main_help"),
+        InlineKeyboardButton(text="❤️", url=f"tg://settings"),
+        InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
     [
         InlineKeyboardButton(
@@ -384,11 +384,11 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🌹", callback_data="help|back"),
+        InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
@@ -415,11 +415,11 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🌹", callback_data="help|back"),
+        InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
@@ -490,7 +490,7 @@ def MukeshRobot_Main_Callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="• ʙᴀᴄᴋ •", callback_data="Main_help"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="mukesh_support")
+                        InlineKeyboardButton(text="• ʙᴀᴄᴋ •", callback_data="Main_help"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •" {"https://t.me/BAD_MUNDA_0"}, callback_data="mukesh_support")
                     ]
                 ]
             ),
@@ -582,11 +582,11 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [ [
-        InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🌹", callback_data="help|back"),
+        InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(text="• Dᴏɴᴀᴛᴇ •", url="https://t.me/BOTS_REPO_ALL_01"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="mukesh_support")
@@ -621,11 +621,11 @@ def Source_about_callback(update: Update, context: CallbackContext):
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://telegra.ph/file/d7f1ad343928a96be171a.mp4")
                 ],
                  [
-        InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="❤️", callback_data="help|back"),
+        InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],[InlineKeyboardButton(text="◁", callback_data="source_back")]]
             ),
         )
@@ -651,11 +651,11 @@ def Music_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="➕", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🌹", callback_data="help|back"),
+        InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
