@@ -78,7 +78,7 @@ PM_START_TEXT = """
 *🙋𝐇ᴇʏ* {} , 🥀
 *๏ I'M {} SQUARE YOUR GROUP!
 THE MOST POWERFUL MANGMENT ➕ MUSIC & CHATBOT OR MANY MORE!*
-➻ *ANY HELP VISIT @THE_DRAMA_CLUB_01 THANKS FOR USING AUJLA BOTS.*
+➻ *ANY HELP VISIT @THE_DRAMA_CLUB_01 THANKS FOR USING 🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•😈 BOTS.*
 ➖➖➖➖➖➖➖➖➖➖➖
    *📇 Sᴛᴀʀᴛ ➻* {} 𝐌ᴇᴍʙᴇʀ𝐬🎉
    *👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ ➻* {} 𝐆ʀᴏᴜᴘ𝐬🪷
@@ -87,11 +87,11 @@ THE MOST POWERFUL MANGMENT ➕ MUSIC & CHATBOT OR MANY MORE!*
 
 buttons = [
     [
-        InlineKeyboardButton(text="🏡", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="🎧", callback_data="help|back"),
-        InlineKeyboardButton(text="🙎", url=f"https://t.me/II_BAD_MUNDA_II"),
-        InlineKeyboardButton(text="🧑‍🤝‍🧑", url=f"tg://settings"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="🥀", url=f"https://t.me/THE_DRAMA_CLUB_01"),
+        InlineKeyboardButton(text="🌹", callback_data="help|back"),
+        InlineKeyboardButton(text="😈", url=f"https://t.me/II_BAD_MUNDA_II"),
+        InlineKeyboardButton(text="🧟", url=f"tg://settings"),
+        InlineKeyboardButton(text="❤️", callback_data="Main_help"),
      ],
     [
         InlineKeyboardButton(
