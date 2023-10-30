@@ -35,8 +35,7 @@
 ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
 <p align="center"><a href="https://heroku.com/deploy?template=https://https://github.com/badmunda011/Controlgp"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  ━━━━━━━━━━━━━━━━━━━━━━
-<h3> ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ? </h3>
-<h2> <a href="https://youtu.be/YT_nYVb0OxI"><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/YT_nYVb0OxI",width="500" height="70">
+ 
   </a>  </h2>
   ━━━━━━━━━━━━━━━━━━━━
 <h3 align="center">
@@ -127,7 +126,6 @@ async def some_function(_, message):
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
  [ 🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•⏤͟͟͞͞‌ ](https://t.me/II_BAD_MUNDA_II)
 
- [ᴀɴᴏɴʏᴍᴏᴜs](https://telegram.me/anonymous_was_bot)  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Noob-Mukesh/MukeshRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
+ ᴩᴏᴡᴇʀғᴜʟ ❤️ </b>
 
 ━━━━━━━━━━━━━━━━━━━━
