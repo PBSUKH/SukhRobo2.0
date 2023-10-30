@@ -426,7 +426,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="🏡 sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url=f"https://t.me/World_Mania"
+                            text="ᴜᴩᴅᴀᴛᴇs 🍷", url="https://t.me/ABT_BAD"
                         ),
                     ],
                     [
@@ -624,7 +624,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
         InlineKeyboardButton(text="🥀", callback_data="mukesh_back"),
         InlineKeyboardButton(text="❤️", callback_data="help|back"),
         InlineKeyboardButton(text="👻", url=f"https://t.me/THE_DRAMA_CLUB_01"),
-        InlineKeyboardButton(text="❤️", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="❤️", url="tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="❤️‍🩹", callback_data="Main_help"),
      ],[InlineKeyboardButton(text="◁", callback_data="source_back")]]
             ),
