@@ -1,34 +1,14 @@
 <h1 align="center">🥀➣Bᴀᴅ❤︎ ᴍᴜɴᴅᴀ ➻ >•😈</h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/e25a563619c653328830d.jpg">
+  <img src="https://graph.org/file/40ce67d14a3f5a7136090.jpg">
+  
 </p>
 <p align="center">
-<a href="https://github.com/Noob-Mukesh/MukeshRobot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Noob-Mukesh/MukeshRobot/network/members"> <img src="https://img.shields.io/github/forks/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Noob-Mukesh/MukeshRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Noob-Mukesh/MukeshRobot"> <img src="https://img.shields.io/github/repo-size/Noob-Mukesh/MukeshRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Noob-Mukesh/MukeshRobot/commits/Noob-Mukesh "> <img src="https://img.shields.io/github/last-commit/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://graph.org/file/40ce67d14a3f5a7136090.jpg"><img 
+
 </p>
 
-━━━━━━━━━━━━━━━━━━━━
-<h2 align="center">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ </h2>
 
-<h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/groupcontrollertgbot">ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʀᴏʙᴏᴛ</a>
-ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...</h4>
-━━━━━━━━━━━━━━━━━━━━━━
-<h2 align="center"> 
-    ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs 
-</h2>
-
-<p align="center">
-    <a href="https://www.python.org/downloads/release/python-31012/"> ᴘʏᴛʜᴏɴ 3.10.12 </a> |
-    <a href="https://docs.pyrogram.org/intro/setup#api-keys"> ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ </a> |
-    <a href="https://t.me/botfather"> ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ </a> | 
-    <a href="https://telegra.ph/How-To-get-Mongodb-URI-04-06"> ᴍᴏɴɢᴏᴅʙ ᴜʀɪ </a>
-</p>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀</h2> 
