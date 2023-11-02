@@ -48,3 +48,5 @@ class Production(Config):
 class Development(Config):
     LOGGER = True
     
+# Images
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/d4bf46af570e1d72eabd5.jpg")
