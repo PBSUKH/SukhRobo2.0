@@ -1,4 +1,4 @@
-<h1 align="center">ᴍᴜᴋᴇsʜ ʀᴏʙᴏᴛ</h1>
+<h1 align="center">BAD BABY</h1>
 <p align="center">
   <img src="https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
 </p>
